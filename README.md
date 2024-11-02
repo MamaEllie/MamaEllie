@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MamaEllie
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning bachelor in information system management
-- 💞️ I’m looking to collaborate on software development
+- 👋 Hi, I’m @Ms_Aisher
+- 👀 I’m interested in software development and system administrating
+- 🌱 I’m currently a graduate of bachelor in information system management
+- 💞️ I’m looking to collaborate on software development 
 - 📫 How to reach me aisherimam255@gmail.com
 
 <!---
